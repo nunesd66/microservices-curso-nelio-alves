@@ -1,6 +1,7 @@
 # IDE
-/.idea
-/.metadata
+.idea
+.metadata
+projeto-replicado/.metadata/.*
 
 # projeto
 /projeto-pronto
